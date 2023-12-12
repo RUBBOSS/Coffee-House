@@ -170,6 +170,7 @@ span {
   border: 1px solid #c1b6ad;
   display: flex;
   gap: 8px;
+  cursor: pointer;
   transition: background-color 0.3s ease-in-out;
 
 }
