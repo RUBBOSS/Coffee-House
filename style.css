@@ -490,6 +490,7 @@ img[alt="about-img4"]:hover {
 }
 
 .appBtn {
+  cursor: pointer;
   display: flex;
 }
 
